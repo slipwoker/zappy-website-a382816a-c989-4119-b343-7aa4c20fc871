@@ -1,0 +1,105 @@
+# RoySTore — Generative Engine Optimization Map
+
+> A second-hand gaming store specializing in all things gaming — consoles, controllers, games, accessories, and more. The store targets gamers looking for quality pre-owned gaming gear at accessible prices. The brand aims for a professional, trustworthy feel that appeals to the gaming community, combining the excitement of gaming culture with the practicality of a reliable marketplace.
+
+---
+
+## Pages
+
+### דף הבית
+https://roystore-a382816a.zappy5.app
+מחפש משחקים ומוצרי גיימינג יד 2 במחירים שוברי שוק? RoySTore מביא לך קונסולות, ג&#39;ויסטיקים ואקססוריז איכותיים שעברו בדיקה קפדנית. הצטרף לקהילת הגיימרים החכמה והתחל לחסוך היום.
+
+### למה לקנות יד שנייה
+https://roystore-a382816a.zappy5.app/why-buy-used
+למה לשלם יותר כשאפשר לקבל מוצרים איכותיים אבל המחיר יותר משתלם? גלה איך ציוד גיימינג יד שנייה מ-RoySTore נותן לך ביצועים מעולים בלי לקרוע את הכיס. שדרג את החוויה עכשיו.
+
+### אודות RoySTore
+https://roystore-a382816a.zappy5.app/about
+RoySTore הוא האתר לפרסומי מוצרי גיימינג יד שנייה שהוקם מתוך אהבה אמיתית לעולם הגיימינג. אנחנו מחברים בין גיימרים לציוד אמין במחירים הוגנים. בוא להכיר את החזון שמשנה את כללי המשחק.
+
+### צור קשר
+https://roystore-a382816a.zappy5.app/contact
+רוצה לדעת עוד על מוצרי גיימינג יד 2 אצלנו? צוות RoySTore כאן כדי לענות על כל שאלה, לעזור בבחירה או לשמוע את הפידבק שלך. צור קשר עכשיו ובוא נתחיל להרים יחד את הרמה.
+
+### Products
+https://roystore-a382816a.zappy5.app/products
+המוצרים שלנו - RoySTore
+
+### Cart
+https://roystore-a382816a.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://roystore-a382816a.zappy5.app/checkout
+תשלום
+
+### Login
+https://roystore-a382816a.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://roystore-a382816a.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://roystore-a382816a.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://roystore-a382816a.zappy5.app/product/:slug
+פרטי המוצר - RoySTore
+
+### Category
+https://roystore-a382816a.zappy5.app/category/:slug
+מוצרים - RoySTore
+
+### תודה רבה | RoySTore
+https://roystore-a382816a.zappy5.app/thank-you
+תודה שפנית אלינו. הודעתך התקבלה בהצלחה ונציג מטעמנו יחזור אליך בהקדם. RoySTore - המקום שלך עבור משחקים ומוצרי גיימינג יד 2.
+
+## Legal & Policy
+
+### Privacy Policy
+https://roystore-a382816a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://roystore-a382816a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://roystore-a382816a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About RoySTore
+A second-hand gaming store specializing in all things gaming — consoles, controllers, games, accessories, and more. The store targets gamers looking for quality pre-owned gaming gear at accessible prices. The brand aims for a professional, trustworthy feel that appeals to the gaming community, combining the excitement of gaming culture with the practicality of a reliable marketplace.
+
+## Target Audience
+- גיימרים, חובבי גיימינג
+- גיימרים כבדים
+- סטודנטים חובבי גיימינג בתקציב מוגבל
+- גיימרים מזדמנים
+
+## Industry
+Gaming E-commerce
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://roystore-a382816a.zappy5.app/sitemap.xml
+- Robots: https://roystore-a382816a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://roystore-a382816a.zappy5.app/llms-full.txt
+- Products (JSON): https://roystore-a382816a.zappy5.app/products.json
+- Products (Google Merchant RSS): https://roystore-a382816a.zappy5.app/product-feed.xml
